@@ -1,0 +1,13 @@
+# appium.yamlLoginPage:
+  locators:
+      name: 用户名
+      type: id
+      value: com.taobao.taobao:id/aliuser_login_mobile_et
+  首页健身目的:
+      name: 密码
+      type: id
+      value: com.yundongjiao.lepao:id/home_type
+  健身目的选择元素list:
+      name: 登录按钮
+      type: By.ID
+      value: com.yundongjiao.lepao:id/ion

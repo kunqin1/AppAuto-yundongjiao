@@ -1,0 +1,53 @@
+{
+    "查看排行榜":{
+      "name": "查看排行榜",
+      "type": "id",
+      "value": "com.yundongjiao.lepao:id/record"
+    },
+    "卡路里挑战":{
+      "name": "卡路里挑战",
+      "type": "id",
+      "value": "com.yundongjiao.lepao:id/calorie"
+    },
+    "马拉松耐力":{
+      "name": "马拉松耐力",
+      "type": "id",
+      "value": "com.yundongjiao.lepao:id/marathon"
+    },
+    "荣耀坚持赛":{
+      "name": "荣耀坚持赛",
+      "type": "id",
+      "value": "com.yundongjiao.lepao:id/glory"
+    },
+    "日排行榜":{
+      "name": "日排行榜",
+      "type": "android",
+      "value": "new UiSelector().text(\"日排行榜\")"
+    },
+    "周排行榜":{
+      "name": "周排行榜",
+      "type": "android",
+      "value": "new UiSelector().text(\"周排行榜\")"
+    },
+    "月排行榜":{
+      "name": "月排行榜",
+      "type": "android",
+      "value": "new UiSelector().text(\"月排行榜\")"
+    },
+    "切换场馆按钮":{
+      "name": "切换场馆按钮",
+      "type": "id",
+      "value": "com.yundongjiao.lepao:id/city"
+    },
+    "当前城市":{
+      "name": "当前城市",
+      "type": "id",
+      "value": "com.yundongjiao.lepao:id/img_y"
+    },
+    "当前城市1":{
+      "name": "当前城市",
+      "type": "text",
+      "value": "马拉松耐力"
+    }
+
+}

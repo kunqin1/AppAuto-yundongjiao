@@ -1,0 +1,10 @@
+{
+  "首页健身目的":{
+    "type":"id",
+    "value": "com.yundongjiao.lepao:id/home_type"
+  },
+  "健身目的选择元素list": {
+    "type": "By.ID",
+    "value": "com.yundongjiao.lepao:id/ion"
+  }
+}

@@ -1,0 +1,63 @@
+2021-02-23 17:29:56,939 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/544e4ebc-0f76-4b6e-9fd8-6ec07177f837/elements {"using": "id", "value": "com.yundongjiao.lepao:id/img"}
+2021-02-23 17:29:57,837 connectionpool.py[line:433] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/544e4ebc-0f76-4b6e-9fd8-6ec07177f837/elements HTTP/1.1" 200 69
+2021-02-23 17:29:57,837 remote_connection.py[line:440] DEBUG Finished Request
+2021-02-23 17:29:57,837 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/544e4ebc-0f76-4b6e-9fd8-6ec07177f837/element/1/click {"id": "1"}
+2021-02-23 17:29:58,942 connectionpool.py[line:433] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/544e4ebc-0f76-4b6e-9fd8-6ec07177f837/element/1/click HTTP/1.1" 200 14
+2021-02-23 17:29:58,944 remote_connection.py[line:440] DEBUG Finished Request
+2021-02-23 17:29:58,944 Banner.py[line:21] INFO 测试
+2021-02-23 17:29:58,945 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/544e4ebc-0f76-4b6e-9fd8-6ec07177f837/element {"using": "id", "value": "com.yundongjiao.lepao:id/back"}
+2021-02-23 17:30:00,505 connectionpool.py[line:433] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/544e4ebc-0f76-4b6e-9fd8-6ec07177f837/element HTTP/1.1" 200 67
+2021-02-23 17:30:00,505 remote_connection.py[line:440] DEBUG Finished Request
+2021-02-23 17:30:00,506 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/544e4ebc-0f76-4b6e-9fd8-6ec07177f837/element/2/click {"id": "2"}
+2021-02-23 17:30:02,809 connectionpool.py[line:433] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/544e4ebc-0f76-4b6e-9fd8-6ec07177f837/element/2/click HTTP/1.1" 200 14
+2021-02-23 17:30:02,809 remote_connection.py[line:440] DEBUG Finished Request
+2021-02-23 17:30:06,810 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/544e4ebc-0f76-4b6e-9fd8-6ec07177f837/elements {"using": "id", "value": "com.yundongjiao.lepao:id/img"}
+2021-02-23 17:30:06,852 connectionpool.py[line:433] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/544e4ebc-0f76-4b6e-9fd8-6ec07177f837/elements HTTP/1.1" 200 69
+2021-02-23 17:30:06,852 remote_connection.py[line:440] DEBUG Finished Request
+2021-02-23 17:30:06,852 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/544e4ebc-0f76-4b6e-9fd8-6ec07177f837/element/3/click {"id": "3"}
+2021-02-23 17:30:07,291 connectionpool.py[line:433] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/544e4ebc-0f76-4b6e-9fd8-6ec07177f837/element/3/click HTTP/1.1" 200 14
+2021-02-23 17:30:07,291 remote_connection.py[line:440] DEBUG Finished Request
+2021-02-23 17:30:07,291 Banner.py[line:21] INFO 测试
+2021-02-23 17:30:07,292 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/544e4ebc-0f76-4b6e-9fd8-6ec07177f837/element {"using": "id", "value": "com.yundongjiao.lepao:id/back"}
+2021-02-23 17:30:08,305 connectionpool.py[line:433] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/544e4ebc-0f76-4b6e-9fd8-6ec07177f837/element HTTP/1.1" 200 67
+2021-02-23 17:30:08,305 remote_connection.py[line:440] DEBUG Finished Request
+2021-02-23 17:30:08,305 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/544e4ebc-0f76-4b6e-9fd8-6ec07177f837/element/4/click {"id": "4"}
+2021-02-23 17:30:11,088 connectionpool.py[line:433] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/544e4ebc-0f76-4b6e-9fd8-6ec07177f837/element/4/click HTTP/1.1" 200 14
+2021-02-23 17:30:11,089 remote_connection.py[line:440] DEBUG Finished Request
+2021-02-24 10:45:49,828 Banner.py[line:32] INFO 第一个
+2021-02-24 10:45:57,926 Banner.py[line:37] INFO 第二个
+2021-02-24 10:54:53,768 Banner.py[line:34] INFO 第一个
+2021-02-24 10:55:02,554 Banner.py[line:39] INFO 第二个
+2021-02-24 11:20:26,857 Course.py[line:113] INFO 返回到首页失败
+2021-02-24 11:20:31,907 Course.py[line:122] INFO 遍历查看全部课程
+2021-02-24 11:21:12,956 Course.py[line:113] INFO 返回到首页失败
+2021-02-24 11:21:28,345 Course.py[line:117] INFO 课程banner位
+2021-02-24 11:22:08,533 Course.py[line:113] INFO 返回到首页失败
+2021-02-24 11:22:23,910 Course.py[line:132] INFO 遍历开始课程
+2021-02-24 11:22:40,342 Course.py[line:113] INFO 返回到首页失败
+2021-02-24 11:22:55,747 Course.py[line:127] INFO 赛选课程功能
+2021-03-02 15:51:57,414 ItPlan.py[line:158] INFO 创建智能训练计划
+2021-03-02 15:52:18,291 ItPlan.py[line:170] INFO 验证开始智能训练计划
+2021-03-02 15:52:22,548 ItPlan.py[line:158] INFO 创建智能训练计划
+2021-03-02 15:52:28,323 ItPlan.py[line:164] INFO 验证智能训练计划状态
+2021-03-02 15:55:50,074 ItPlan.py[line:158] INFO 创建智能训练计划
+2021-03-02 15:57:39,676 ItPlan.py[line:158] INFO 创建智能训练计划
+2021-03-02 15:58:36,923 ItPlan.py[line:170] INFO 验证开始智能训练计划
+2021-03-02 15:58:59,907 ItPlan.py[line:164] INFO 验证智能训练计划状态
+2021-03-02 16:00:12,044 ItPlan.py[line:158] INFO 创建智能训练计划
+2021-03-02 16:01:10,744 ItPlan.py[line:170] INFO 验证开始智能训练计划
+2021-03-02 16:01:31,864 ItPlan.py[line:164] INFO 验证智能训练计划状态
+2021-03-02 16:02:16,433 ItPlan.py[line:158] INFO 创建智能训练计划
+2021-03-02 16:03:11,057 ItPlan.py[line:170] INFO 验证开始智能训练计划
+2021-03-02 16:03:33,723 ItPlan.py[line:164] INFO 验证智能训练计划状态
+2021-03-02 16:06:38,902 ItPlan.py[line:159] INFO 创建智能训练计划
+2021-03-02 16:07:24,145 ItPlan.py[line:159] INFO 创建智能训练计划
+2021-03-02 16:08:40,450 ItPlan.py[line:159] INFO 创建智能训练计划
+2021-03-02 16:08:58,527 ItPlan.py[line:171] INFO 验证开始智能训练计划
+2021-03-02 16:10:19,389 ItPlan.py[line:171] INFO 验证开始智能训练计划
+2021-03-02 16:10:38,215 ItPlan.py[line:171] INFO 验证开始智能训练计划
+2021-03-02 16:11:39,500 ItPlan.py[line:171] INFO 验证开始智能训练计划
+2021-03-02 16:13:31,581 ItPlan.py[line:171] INFO 验证开始智能训练计划
+2021-03-02 16:18:24,655 ItPlan.py[line:175] INFO 验证开始智能训练计划
+2021-03-02 16:20:30,868 ItPlan.py[line:175] INFO 验证开始智能训练计划
+2021-03-02 16:35:26,167 ItPlan.py[line:172] INFO 验证开始智能训练计划
